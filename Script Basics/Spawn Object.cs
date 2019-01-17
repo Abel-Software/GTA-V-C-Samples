@@ -3,3 +3,4 @@ Prop obj = World.CreateProp("prop_mp_barrier_01", Game.Player.Character.Position
 //Create a non-dynamic object with being place on the ground
 //false = dynamic object (Change to true if you want the object to be dynamic)
 //true = place on ground (change to false if you do not want the object to place on the ground)
+//additional code can be placed for the object by using the variable "obj".
